@@ -1,4 +1,4 @@
-# crazydrive_demo
+# Crazydrive Demo
 This repository contains demo of the crazdrive trajectory planner. The source code might be published in the future. 
 
 - The trajectory planner uses a nonlinear kinematic vehicle model represented in curvilinear coordinates. The four state variables are chosen to be station, velocity, acceleration and curvature. The control variables are chosen to be longitudinal jerk and curvature rate.
